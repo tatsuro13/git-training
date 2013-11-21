@@ -13,7 +13,7 @@ SYNOPSIS
 
 
 DESCRIPTION
-       Fetches named heads or tags from one or more other repositories, along with the objects necessary to complete them.
+       テスト1回目
 
        The ref names and their object names of fetched refs are stored in .git/FETCH_HEAD. This information is left for a later merge operation done by git
        merge.
