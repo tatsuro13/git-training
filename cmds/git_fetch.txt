@@ -14,6 +14,7 @@ SYNOPSIS
 
 DESCRIPTION
        テスト1回目
+       テスト2回目
 
        The ref names and their object names of fetched refs are stored in .git/FETCH_HEAD. This information is left for a later merge operation done by git
        merge.
