@@ -5,7 +5,7 @@ usage: git [--version] [--exec-path[=<path>]] [--html-path] [--man-path] [--info
            <command> [<args>]
 
 The most commonly used git commands are:
-   add        Add file contents to the index
+   add        ステージ
    bisect     Find by binary search the change that introduced a bug
    branch     List, create, or delete branches
    checkout   Checkout a branch or paths to the working tree
